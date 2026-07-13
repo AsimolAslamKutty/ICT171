@@ -1,17 +1,19 @@
 # Lab 3B2 Reflection - MariaDB Additional Server Service
 
-- In this lab, I tried installing MariaDB as an extra server service on my AWS Ubuntu server.
+- In this lab, I chose MariaDB as my additional server service because I wanted to try something different from Apache, DNS and HTTPS.
 
-- I chose MariaDB because it is a database service, so it is not the same as the Apache, DNS, or HTTPS tasks I already did.
+- MariaDB is a database service, so it is used more for storing data instead of showing web pages.
 
-- First, I checked that MariaDB was installed and running. I also made sure it was enabled so it can start again when the server restarts.
+- I installed MariaDB on my AWS Ubuntu server and checked that the service was active and running.
 
-- I then did the secure installation step. This helped remove some default settings that are not safe, like anonymous users and the test database.
+- I also made sure it was enabled, so it can start again when the server restarts.
 
-- After that, I used `SHOW DATABASES;` to check whether MariaDB was working properly.
+- After that, I ran the secure installation step to remove some unsafe default settings.
 
-- I also created a small database called `ict171_lab`, made a `students` table, inserted one record, and displayed it using a SQL query.
+- I tested MariaDB by using `SHOW DATABASES;` first, then I created a small database called `ict171_lab`.
 
-- One thing I noticed is that SQL commands must be typed carefully. Even a small mistake like missing quotes or a semicolon can stop the command from working.
+- I also created a `students` table, inserted one record, and displayed it using a SQL query.
 
-- This lab helped me understand that a server can run different types of services. For example, Apache can be used for the website, while MariaDB can be used to store data.
+- One thing I noticed is that SQL commands must be typed carefully because small mistakes like missing semicolons or quotes can cause errors.
+
+- This lab helped me understand that one server can run different services. For example, Apache can show the website, while MariaDB can be used to store data.
