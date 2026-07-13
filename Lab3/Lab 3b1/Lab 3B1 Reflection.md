@@ -1,3 +1,18 @@
+
+## What I Learnt
+
+For this lab, I learnt how a backup can be done automatically instead of copying files manually every time.
+
+I first tested the backup script myself, then used cron to run it automatically. I also checked the ZIP files and the log file to make sure the cron job was really working.
+
+One thing I had to be careful with was the file path. When using cron, I realised it is better to use the full path because cron may not run the same way as the normal terminal.
+
+I also tested copying the backup ZIP file using `scp`. This helped me understand how backup files can be moved to another location after they are created.
+
+For a real server, I think the script can be improved by adding error messages, checking whether the backup is successful, and removing very old backups so the storage does not become full.
+
+
+
 # Lab 3B1 Reflection
 
 - In this lab, I learnt how to create a backup using a Bash script.
