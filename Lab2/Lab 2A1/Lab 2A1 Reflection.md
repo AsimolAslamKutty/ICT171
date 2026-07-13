@@ -17,3 +17,14 @@
 - Other factors should also be considered before choosing a printer, such as print speed, print quality, warranty, reliability, and whether the printer is suitable for home or office use.
 
 - From the year-by-year comparison, there was no break-even point within 5 years because the HP printer stayed cheaper from year 1 to year 5.
+
+
+ ## What I Found
+
+From my calculation, the HP Smart Tank 580 was cheaper than the Canon imageCLASS LBP122dw for 5 years.
+
+The HP printer cost about SGD 3,285.13, while the Canon printer cost about SGD 12,185.66.
+
+I think the main reason is because the Canon toner cost became very high when printing many pages. Even though the printer price itself was not very different, the long-term running cost made a big difference.
+
+Based on this, I would choose the HP Smart Tank 580 because it is cheaper to use over time.
