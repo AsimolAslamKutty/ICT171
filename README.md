@@ -5,3 +5,6 @@ In these labs, I practiced different Linux and cloud tasks. Some of the things I
 
 
 I used this journal to organise my work and keep track of what I completed for each labs. The screenshots show the steps I did and the reflection notes explain what I understood from the labs.
+
+
+These activities gave me more hands-on practice with Linux and cloud server tasks. It also helped me understand how the commands and services work in a real server environment.
