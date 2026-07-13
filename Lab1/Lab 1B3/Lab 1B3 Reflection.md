@@ -1,3 +1,29 @@
+# Lab Questions and Answers
+1. How many times does "verdigris" appear?
+
+   Answer: 0
+   
+
+3. What is the surname of the author of 11.07.txt?
+
+   Answer: Cannot be answered because the 1107.txt was not found in the extracted files.
+   
+
+5. What is the surname of the author of the file that is exactly 255258 bytes?
+
+   Answer: Cannot be answered because no extracted file matched that size.
+   
+
+7. What is the name of the file with the 3rd oldest date?
+
+   Answer: frankensteint.txt
+   
+
+9. Find the word that follows the sentence about Jack?
+
+   Answer: Cannot be answered because the sentence was not found in the extracted files.
+
+
 # Lab 1B3 Reflection
 
 - In this lab, I practised extracting a compressed archive using `bunzip2` and `tar`. After extracting it, I checked what text files were inside the folder.
